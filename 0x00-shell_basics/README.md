@@ -1,1 +1,1 @@
-List files of a directory
+Changing working directory to home directory
