@@ -1,1 +1,1 @@
-pwd-see name of working directory
+List files of a directory
